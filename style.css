@@ -1,0 +1,55 @@
+  
+  .container{
+      padding-top: 50px;
+
+  }
+.bg{
+    background-color: #F0FFF0;
+}
+ .logo{
+     width: 200px;
+     height: 60px;
+
+ }
+    .tchair{
+        width: 554px;
+        height: 346px;
+    }
+    .buy-now-button{
+        background-color: #21B573;
+        color: white;
+        border-radius: 33px;
+        border: none;
+    }
+    
+    .card{
+        width: 270px;
+        height: 270px;
+    }
+    .book{
+         position: relative;
+        width: 115px;
+        height: 85px;
+        padding-left: 40px;
+        
+        
+    }
+    .book-text{
+         padding-top: 10px;
+    }
+    .education{
+        
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    .panel{
+        
+    
+        display: block;
+    }
+    .course{
+        text-align: center;
+        padding-top: 30px;
+    }
+      
+     
