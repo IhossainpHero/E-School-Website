@@ -1,6 +1,6 @@
   
   .container{
-      padding-top: 50px;
+      padding-top: 100px;
 
   }
 .bg{
@@ -21,6 +21,7 @@
         border-radius: 33px;
         border: none;
     }
+    
     
     .card{
         width: 270px;
@@ -49,7 +50,46 @@
     }
     .course{
         text-align: center;
-        padding-top: 30px;
+        padding-top: 40px;
+    }
+    .course2{
+        text-align: center;
+        padding-top: 70px;
+    }
+    .system{
+        padding-top: 20px;
+    }
+    .vector2{
+        width: 24px;
+        height: 24px;
+    }
+    .date{
+        width: 75px;
+        height: 12px;
+    }
+    .card{
+        box-shadow: 5px 5px 10px lightgray;
+    }
+    .man{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .big-man{
+        padding-bottom: 50px;
+    }
+    .bg1{
+        color: white;
+        background-color: #282531;
+        width: 1440px;
+        height: 400px;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    footer{
+        color: white;
+        text-align: center;
+        padding-top: 80px;
     }
       
      
